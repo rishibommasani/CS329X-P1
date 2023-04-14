@@ -78,15 +78,15 @@ Hopefully the assignment will help you:
 1. Make sure you have finished all of the steps, and have got the `.pkl` file that summarizes your evaluation results.
 2. Rename `A1-Summary.md` to `A1-Summary-[firstlast].md` (e.g. `A1-Summary-janedoe.pkl`)
 3. Similarly, rename `A1-Suite.pkl` to `A1-Suite-[firstlast].pkl` (e.g. `A1-Suite-janedoe.pkl`)
-4. Create a zip file: `A1-[firstlast].zip`, that contains both `A1-Summary-[AndrewID].md` and `A1-Test-Suite-[AndrewID].pkl`.
-5. Go back to Canvas, and submit `A1-[AndrewID].zip`.
+4. Create a zip file: `A1-[firstlast].zip`, that contains both `A1-Summary-[firstlast].md` and `A1-Test-Suite-[firstlast].pkl`.
+5. Submit `A1-[firstlast].zip` on Gradescope and Canvas.
 
 ## Grading:
 
 - **0 point** if no submission.
 - **60 points if you attemped the assignment without coding**. In this case, you will fill in the summary in Fill in [A1-Summary-No-Coding.md](./A1-Summary-No-Coding.md) by writing text descriptions of ten tests you'd want to run, rename the file to `A1-Summary-No-Coding-[firstlast].md`, and submit.
-- **75 points if you wrote less than 10 tests.
-- **90 points if you wrote at least 10 tests for a novel NLP task** (tasks that's not already included in the CheckList repo).
+- **75 points** if you wrote less than 10 tests.
+- **90 points** if you wrote at least 10 tests.
 
 **The remaining 10 points will be based on the efficacy of your tests.
 
