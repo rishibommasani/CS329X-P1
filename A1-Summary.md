@@ -1,26 +1,21 @@
 # Assignment 1 Report
 
-Andrew ID:
-
 ## Task Summary
 
-Write about the task you picked so your fellow students can understand what NLP task you are working on.
-
-- **NLP Task**: [What's the name of this NLP task? e.g. Sentiment Analysis]
-- **Task description**: [e.g., Given a sentence, the model should predict whether the sentence conveys positive / negative sentiment, or whether it is neutral.]
-- **Example input/output**:
+- **NLP Task**: Hate speech classification
+- **Base Dataset**: Specify the dataset you used and provide a link to it on Hugging Face Datasets.
+- **Task description**: Provide the description of the dataset. In particular, describe the hate speech classes, their interpretation, and the domain/source venu for the text.
+- **Example input/output**: Give an example from the dataset for each class.
 
   ```
   Input: [INPUT EXAMPLE]
   Output: [OUTPUT EXAMPLE]
   ```
 
-- **Base dataset used in testing**: [dataset name, e.g., IMDB](dataset URL, e.g., https://huggingface.co/datasets/imdb)
-
 ## Model summary
 
-- **Model name & url**: [dataset name, e.g., distilbert-base-uncased-finetuned-sst-2-english](dataset URL, e.g., https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english)
-- **Description**: (A short description as in the [Model Card](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english), e.g., "DistilBERT-base-uncased fine-tuned on SST-2. This model reaches an accuracy of 91.3 on the dev set")
+- **Model name & url**: Specify the model you used and provide a link to it on Hugging Face Models.
+- **Description**: Provide a description of the model, including the model's accuracy on the base dataset.
 
 ## Test Summary:
 
