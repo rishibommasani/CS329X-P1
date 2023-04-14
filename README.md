@@ -84,11 +84,11 @@ Hopefully the assignment will help you:
 ## Grading:
 
 - **0 point** if no submission.
-- **60 points if you attemped the assignment without coding**. In this case, you will fill in the summary in Fill in [A1-Summary-No-Coding.md](./A1-Summary-No-Coding.md) by writing text descriptions of ten tests you'd want to run, rename the file to `A1-Summary-No-Coding-[firstlast].md`, and submit.
+- **60 points** if you attempted the assignment without coding. In this case, you will fill in the summary in Fill in [A1-Summary-No-Coding.md](./A1-Summary-No-Coding.md) by writing text descriptions of ten tests you'd want to run, rename the file to `A1-Summary-No-Coding-[firstlast].md`, and submit.
 - **75 points** if you wrote less than 10 tests.
 - **90 points** if you wrote at least 10 tests.
 
-**The remaining 10 points will be based on the efficacy of your tests.
+**The remaining 10 points will be based on the efficacy of your tests.**
 
 - We will rate each of your tests on a 1-5 scale: 1) not a bug, 2) minor bug, 3) bug worth investigating and fixing, 4) severe bug, model may not be fit for production, and 5) no model with this bug should be in production.
 - You will receive 3 points if your total score is at least 15, 5 points if it is at least 21, 7 points if at least 27, and 10 points if at least 33.
