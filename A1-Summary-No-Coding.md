@@ -1,19 +1,6 @@
 # Assignment 1 Report
 
-Andrew ID:
-
-## Task Summary
-
-Write about the task you picked so your fellow students can understand what NLP task you are working on.
-
-- **NLP Task**: [What's the name of this NLP task? e.g. Sentiment Analysis]
-- **Task description**: [e.g., Given a sentence, the model should predict whether the sentence conveys positive / negative sentiment, or whether it is neutral.]
-- **Example input/output**:
-
-  ```
-  Input: [INPUT EXAMPLE]
-  Output: [OUTPUT EXAMPLE]
-  ```
+Names: 
 
 ## Test Summary:
 
