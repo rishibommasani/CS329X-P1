@@ -10,7 +10,7 @@ Hopefully the assignment will help you:
 
 ## Steps for completing the assignment.
 
-1. **Envoirnment setup.** Setup the virual Python environment so you can use the same version of Python. Here, I show an example of using [Conda](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html#before-you-start) (which I highly recommend):
+1. **Envoirnment setup.** Setup the virual Python environment so you can use the same version of Python. We recommend using [Conda](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html#before-you-start) :
 
    ```sh
    # create an environment named eval_env, under the version of python 3.7
@@ -19,7 +19,7 @@ Hopefully the assignment will help you:
    conda activate eval_env
    ```
 
-2. **Install necessary packages.** You can also directly do `pip install -r requirements.txt`, but I will do a quick step-by-step tour to show you the important packages (links are to their installation pages respectively): [HuggingFace Transformers](https://github.com/huggingface/transformers/blob/main/README.md#installation), [Pytorch](https://pytorch.org/get-started/locally/#start-locally), [Jupyter Notebook](https://jupyter.org/install), [CheckList](https://github.com/marcotcr/checklist), [SpaCy](https://spacy.io/).
+2. **Install necessary packages.** You can also directly do `pip install -r requirements.txt`; we provide a step-by-step tour to show you the important packages (links are to their installation pages respectively): [HuggingFace Transformers](https://github.com/huggingface/transformers/blob/main/README.md#installation), [Pytorch](https://pytorch.org/get-started/locally/#start-locally), [Jupyter Notebook](https://jupyter.org/install), [CheckList](https://github.com/marcotcr/checklist), [SpaCy](https://spacy.io/).
 
    ```sh
    # You should make sure you are in the environment when installing packages.
