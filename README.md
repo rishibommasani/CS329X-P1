@@ -69,7 +69,7 @@ Hopefully the assignment will help you:
    - Read the CheckList [readme and tutotirals](https://github.com/marcotcr/checklist) to understand how to use the package.
       - In particular, [this tutorial](https://github.com/marcotcr/checklist/blob/master/notebooks/tutorials/4.%20The%20CheckList%20process.ipynb) shows you how to run the Test Suite using Transformer pipelines, which is what you will be doing in your assignment.
    - _Task_: To build on the previous part of the assignment, we will use hate speech classification as the task.
-   - _Model_: Select a popular and well-documented model for the task of hate speech classification on Hugging Face. Try their online inference API before downloading them. If you do not have access to GPUs, try to select _small_ models on Huggingface -- check the size of `pytorch_model.bin`. Smaller models are generally less accurate but will more efficient.
+   - _Model_: Select a popular and well-documented model for the task of hate speech classification on Hugging Face. Try their online inference API before downloading them. If you do not have access to GPUs, try to select _small_ models on Huggingface -- check the size of `pytorch_model.bin`. Smaller models are generally less accurate but will be more efficient.
 
 5. **Write a quick summary of your observations.** Fill in [A1-Summary.md](./A1-Summary.md).
 
